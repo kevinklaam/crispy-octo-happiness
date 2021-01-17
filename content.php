@@ -50,3 +50,5 @@ writehtml('<link rel="stylesheet" type="text/css" href="content.css">');
 function writehtml($html) {
     echo "document.write('" . $html . "');\n";
 }
+
+?>
