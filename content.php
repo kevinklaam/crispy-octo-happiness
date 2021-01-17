@@ -1,6 +1,7 @@
 <?php
 //header('Content-Type: text/javascript; charset=UTF-8');
-
+error_reporting(false);
+ini_set('display_errors', false);
 $imageFolder = 'img/';
 $imageTypes = '{*.jpg,*.JPG,*.jpeg,*.JPEG,*.png,*.PNG}';
 
