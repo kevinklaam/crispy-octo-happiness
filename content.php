@@ -1,5 +1,5 @@
 <?php
-header('Content-Type: text/javascript; charset=UTF-8');
+//header('Content-Type: text/javascript; charset=UTF-8');
 
 $imageFolder = 'img/';
 $imageTypes = '{*.jpg,*.JPG,*.jpeg,*.JPEG,*.png,*.PNG}';
