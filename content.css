@@ -1,0 +1,30 @@
+ul.content {
+    list-style-type: none;
+    padding: 0;
+}
+
+li.content-li {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.content-img img {
+    max-width: 600px;
+    max-height: 600px;
+    outline: none;
+    box-shadow: 10px 10px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+div.content-img.zoom img {
+    max-width: 100%;
+}
+
+div.content-label {
+    padding-top: 5px;
+    font: 12px sans-serif;
+    color:white;
+}
+
+
+
