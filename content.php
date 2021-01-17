@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: text/javascript; charset=UTF-8');
 
-$imageFolder = 'https://kevinklaam.github.io/kevinklaam.github.io/img/';
+$imageFolder = 'https://raw.githubusercontent.com/kevinklaam/kevinklaam.github.io/main/img/';
 $imageTypes = '{*.jpg,*.JPG,*.jpeg,*.JPEG,*.png,*.PNG}';
 
 # Create images array
